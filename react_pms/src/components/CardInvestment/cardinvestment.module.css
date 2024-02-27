@@ -1,0 +1,63 @@
+.container_card_investment{
+    box-shadow: 0 0 8px #212121;
+    background-color: #FFF;
+    border-radius: 4px;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+}
+
+.container_card_investment_internal{
+    flex: 1;
+}
+
+
+.pink_icon{
+    color:#E91E63
+}
+
+.margin_top_4{
+    margin-top: 4px;
+}
+
+.margin_top_8{
+    margin-top: 8px;
+}
+
+
+.small_text{
+    font-size: 10px;
+}
+
+.display_inline{
+    display: inline-block;
+}
+
+.margin_start_1rem{
+    margin-left: 1rem;
+}
+
+.investment_header{
+   padding-top: 8px;
+   padding-left: 8px;
+   padding-right: 8px;
+}
+
+.investment_info{
+   padding-left: 8px;
+   padding-right: 8px;
+}
+
+.investment_action{
+    padding: 8px;
+    background-color: #EEEEEE
+    ;
+}
+
+.divider{
+    width: 2px;
+    background-color: red;
+    margin-left: 8px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
